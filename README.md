@@ -1,6 +1,6 @@
-# HR Analytics Dashboard
+# HR Analytics Dashboard (Power BI)
 
-This Power BI dashboard analyzes employee data to understand attrition, workforce distribution, and employee demographics.
+This Power BI dashboard analyzes employee attrition and workforce trends to help trends to help HR teams make data-diven decisions.
 
 ## Tools Used
 - Power BI
@@ -23,10 +23,15 @@ This Power BI dashboard analyzes employee data to understand attrition, workforc
 - Education filter (Slicer)
 
 ## Key Insights
-- Attrition is higher in specific age groups
-- Certain education fields show higher employee exits
-- Gender distribution varies across age bands
-- Workforce concentration visible in key departments
-
+1. Attrition is higher in specific age groups
+2. Attrition rate is 16%
+3. Most attrition occurs in R&D Department
+4. Certain education fields show higher employee exits
+5. Gender distribution varies across age bands
+6. Workforce concentration visible in key departments
+7. Recommendation :
+   - Improve retention policies
+   - Focus on employee engagement
+ 
 ## Dashboard Preview
 ![Dashboard](dashboard.png)
