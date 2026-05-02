@@ -21,6 +21,12 @@ This Power BI dashboard analyzes employee attrition and workforce trends to help
 - Attrition by education field (Bar Chart)
 - Attrition by age group (Donut Charts)
 - Education filter (Slicer)
+
+## Dashboard Features
+- Interactive slicers for filtering data
+- Gender-wise analysis
+- Age group segmentation
+- Education-based attrition insights
  
 ## Dashboard Preview
 ![Dashboard](dashboard.png)
